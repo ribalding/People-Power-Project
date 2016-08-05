@@ -1,0 +1,48 @@
+/*WoOpDxqbp9ghYEvom3HCkuUWs11etTU0RViSt_PESb4HAX5GqHrcpmj1LI9hV0Yd*/
+
+body{
+  background-color: #03388e;
+}
+
+.header{
+  color: #fff;
+}
+
+.title{
+  text-align: center;
+  font-weight:bold;
+}
+
+.connected{
+  text-align: center;
+}
+
+.batteryTitle{
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+.batteryMeter{
+  background-color:#84db13;
+  padding: 1em;
+  border-radius: .65em;
+  text-align: center;
+  font-size: 150%;
+}
+
+.tempertureSensorBar{
+  margin-top: 1em;
+  background-color: #99c4f7;
+  padding: 1em;
+  border-radius: .65em;
+}
+
+.tempertureSensor{
+  color: #194477;
+  font-weight: bold;
+}
+
+.currentTemp {
+  color: #194477;
+}
