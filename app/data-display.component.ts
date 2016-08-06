@@ -33,6 +33,10 @@ import {TempTimeDisplayComponent} from './temp-time-display.component';
         </div>
       </div>
     </div>
+    <div class="battery">
+      <h4 class="batteryMeter">Load More History</h4>
+    </div>
+
   `,
   directives: [TempHistoryDisplayComponent, TempTimeDisplayComponent]
 

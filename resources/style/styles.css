@@ -34,7 +34,7 @@ body{
 .tempertureSensorBar{
   margin-top: 1em;
   background-color: #99c4f7;
-  padding: 1em;
+  padding: 1em 1em 1em 3em;
   border-radius: .65em;
 }
 
@@ -51,6 +51,7 @@ body{
   border-radius: .65em;
   background-color: #99c4f7;
   min-height: 10em;
+  padding: 1.5em;
 }
 
 .historyChartHeader{
