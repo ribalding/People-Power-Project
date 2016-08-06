@@ -1,7 +1,7 @@
 /*WoOpDxqbp9ghYEvom3HCkuUWs11etTU0RViSt_PESb4HAX5GqHrcpmj1LI9hV0Yd*/
 
 body{
-  background-color: #03388e;
+  background-color: #417dd4;
 }
 
 .header{
@@ -45,4 +45,25 @@ body{
 
 .currentTemp {
   color: #194477;
+}
+
+.historyChart{
+  border-radius: .65em;
+  background-color: #99c4f7;
+  min-height: 10em;
+}
+
+.historyChartHeader{
+  font-size: 150%;
+  padding: 1em;
+  background-color: #194477;
+  border-top-right-radius: inherit;
+  border-top-left-radius: inherit;
+  color: #fff;
+  font-weight:bold;
+}
+
+.chartHeaders{
+  font-weight:bold;
+  padding: .2em;
 }
